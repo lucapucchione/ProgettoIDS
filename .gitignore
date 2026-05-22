@@ -1,0 +1,12 @@
+# File di lock temporanei
+*.ick
+*.lck
+
+# Backup incrementali e file danneggiati di Visual Paradigm
+*.bad_00*
+*.bak_00*
+
+# Regole generali per catturare qualsiasi altra variante di backup
+*bad_*
+*bak_*
+*.bak
