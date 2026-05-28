@@ -10,3 +10,41 @@
 *bad_*
 *bak_*
 *.bak
+
+# File temporanei di Microsoft Office (Word, Excel, PowerPoint)
+~$*
+
+# ==========================================
+# File di sistema macOS
+# ==========================================
+# Generati dal Finder per memorizzare gli attributi della cartella
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# File nascosti creati per i volumi esterni o la rete
+._*
+
+# File temporanei e cestino di macOS
+.DocumentRevisions-V100
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# ==========================================
+# File di sistema Windows
+# ==========================================
+# Cache delle miniature delle immagini
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Configurazione delle cartelle
+[Dd]esktop.ini
+
+# File temporanei generici
+*.tmp
+*.swp
